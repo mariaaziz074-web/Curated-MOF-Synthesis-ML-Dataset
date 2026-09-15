@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+mof_extraction_env/
+ml_pdf_env/
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# CRITICAL: Do NOT push copyrighted PDFs
+pdf_pdfs/
+*.pdf
+
+# Large data files (too big for GitHub's 100MB limit)
+*.xlsx
+extracted_data/mof_raw_extracted_data.*
+extracted_data/mof_cleaned_dataset.*
+
+# Jupyter
+.ipynb_checkpoints/

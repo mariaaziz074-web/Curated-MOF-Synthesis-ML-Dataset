@@ -1,0 +1,11 @@
+[
+  {
+    "total_papers":54,
+    "papers_with_temperature":45,
+    "papers_with_time":3,
+    "papers_with_pH":21,
+    "papers_with_yield":0,
+    "unique_solvents":50,
+    "unique_metals":6
+  }
+]
